@@ -2,6 +2,8 @@
 
 This project presents a deep learning workflow for **classifying land-use types from satellite images** using the **EuroSAT** dataset.
 
+![Final model result](./Final_model.png)
+
 The full analysis, preprocessing pipeline, model training, evaluation, and prediction examples are available in the notebook:
 [`Classification_DL.ipynb`](./Classification_DL.ipynb)
 
@@ -45,10 +47,6 @@ The notebook is organized as a complete end-to-end pipeline:
 ## Main Result
 
 Among the tested models, **ResNet18** achieved the best overall performance, with an accuracy of about **96.5%** on the test set. It provides the most reliable balance between precision, recall, and generalization for this classification task.
-
-## Final Model Illustration
-
-![Final model result](./Final_model.png)
 
 ## Files
 
