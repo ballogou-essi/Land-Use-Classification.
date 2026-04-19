@@ -1,5 +1,11 @@
 # Land-Use Classification from Satellite Images
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch)
+![Colab](https://img.shields.io/badge/Google%20Colab-Notebook-F9AB00?logo=googlecolab)
+![Kaggle](https://img.shields.io/badge/EuroSAT-Dataset-20BEFF?logo=kaggle)
+![Accuracy](https://img.shields.io/badge/Accuracy-96.5%25-brightgreen)
+
 This project presents a deep learning workflow for **classifying land-use types from satellite images** using the **EuroSAT** dataset.
 
 ![Final model result](./Final_model.png)
